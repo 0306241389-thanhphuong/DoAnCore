@@ -6,6 +6,18 @@ namespace DoAnCore.Controllers;
 
 public class HomeController : Controller
 {
+    public IActionResult Checkout()
+    {
+        return View();
+    }
+    public IActionResult Cart()
+    {
+        return View();
+    }
+    public IActionResult Shop()
+    {
+        return View();
+    }
     public IActionResult Index()
     {
         return View();

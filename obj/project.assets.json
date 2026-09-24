@@ -3150,11 +3150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DoAnCore\\DoAnCore.csproj",
+      "projectUniqueName": "D:\\core\\DoAnCore\\DoAnCore.csproj",
       "projectName": "DoAnCore",
-      "projectPath": "D:\\DoAnCore\\DoAnCore.csproj",
+      "projectPath": "D:\\core\\DoAnCore\\DoAnCore.csproj",
       "packagesPath": "C:\\Users\\SV\\.nuget\\packages\\",
-      "outputPath": "D:\\DoAnCore\\obj\\",
+      "outputPath": "D:\\core\\DoAnCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
